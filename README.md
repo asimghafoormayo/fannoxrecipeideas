@@ -19,4 +19,5 @@ Technologies Used:-
 
 React: A JavaScript library for building user interfaces.
 Tailwind CSS: A utility-first CSS framework for creating modern and responsive designs.
-Javascript: For authentication and real-time database functionality (if applicable).
+Javascript: for making in functional and interactive.
+HTML and CSS :- for structuring and styling of the web elements.
