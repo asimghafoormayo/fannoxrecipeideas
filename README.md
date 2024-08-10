@@ -1,8 +1,22 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+FannoX Recipe Ideas
 
-Currently, two official plugins are available:
+Welcome to the FannoX Recipe Ideas project! This application is designed to help users discover, share, and manage their favorite recipes. Whether you're a culinary enthusiast or just looking for meal inspiration, FannoX offers a user-friendly interface to explore a variety of delicious recipes.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features:- 
+
+Browse Recipes: Explore a diverse collection of recipes categorized by cuisine, meal type, and dietary preferences.
+
+Recipe Details: View detailed recipe information, including ingredients, instructions, and nutritional facts.
+
+Favorites: Save your favorite recipes for easy access.
+
+AddtoCart :- Buy your favourite recipes.
+
+Responsive Design: Enjoy a seamless experience on both desktop and mobile devices.
+
+Technologies Used:-
+
+React: A JavaScript library for building user interfaces.
+Tailwind CSS: A utility-first CSS framework for creating modern and responsive designs.
+Javascript: For authentication and real-time database functionality (if applicable).
